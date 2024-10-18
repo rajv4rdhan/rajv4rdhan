@@ -1,5 +1,4 @@
-
-hi# Hello I'm Rajvardhan Singh 👋
+# Hello I'm Rajvardhan Singh 👋
 
 I'm a Full-Stack Developer with a passion for IoT. I enjoy creating innovative solutions that connect devices and improve everyday life. With expertise in both frontend and backend technologies, I develop responsive applications that seamlessly integrate with IoT systems. My experience with MQTT and various hardware platforms enables me to build efficient and scalable IoT solutions.
 
