@@ -5,7 +5,7 @@ I'm a Full-Stack Developer with a passion for IoT and AI/ML. I enjoy creating in
 ## 🛠️ Technologies & Tools
 
 - **Programming/Scripting Languages worked with:** Python, C, C++, JavaScript, Bash
-- **Frontend Development:** React.js
+- **Frontend Development:** React.js, vite
 - **Backend Development:** Node.js, Express
 - **Databases:** MongoDB and Oracle ISQL Plush
 - **Tools:** Docker, Postman
