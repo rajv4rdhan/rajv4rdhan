@@ -14,7 +14,7 @@ I'm a Full-Stack Developer with a passion for IoT. I enjoy creating innovative s
   
 ## 👨🏻‍💻 Projects
 ### 1.  <img src="https://foodchat.pages.dev/logo.jpg" alt="Food Chat Logo" width="30"/> **FoodChat** (Frontend + Backend)
-Food Chat is a web app that integrates OpenFoodFacts and Google GEMNAI to provide users with valuable insights about food products using their barcodes. It offers personalized advice on whether a product is suitable for the user's health condition and can identify misleading package claims.
+Food Chat is a web app that uses opensource data and GenAi to provide users with valuable insights about food products using their barcodes. It offers personalized advice on whether a product is suitable for the user's health condition and can identify misleading package claims.
 - Live Demo : [Food Chat](https://foodchat.pages.dev/) (Frist response maybe slow because it is hosted on Free tier plan)
 - User Guide TLDR: [User Guide](https://foodchat.pages.dev/demo)
 ### 2. Weather App
