@@ -28,4 +28,4 @@ Live Demo: [SURYA SHAKTI INDIA](https://che110.pages.dev/)
 Live Demo: [Vivaha ](https://cse-326.pages.dev/Final-project/)
 
 ## 🐶 Lets Connect
-I'm excited to connect with others via [Twitter](https://x.com/http_rajvardhan) to chat about projects and ideas.
+I'm excited to connect with others via [Twitter](https://x.com/rajv4rdhan) to chat about projects and ideas.
