@@ -29,3 +29,4 @@ Live Demo: [Vivaha ](https://cse-326.pages.dev/Final-project/)
 
 ## 🐶 Lets Connect
 I'm excited to connect with others via [Twitter](https://x.com/rajv4rdhan) to chat about projects and ideas.
+![GitHub Streak](https://streak-stats.demolab.com/?user=rajv4rdhan)
